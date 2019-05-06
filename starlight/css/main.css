@@ -1,12 +1,9 @@
 * {
   margin: 0;
   padding: 0; }
-<<<<<<< HEAD
 
 html {
   scroll-behavior: smooth; }
-=======
->>>>>>> b9d2e9a6998308495c151c8121fc43f64b7a68ec
 
 .wrapper {
   max-width: 2000px;
@@ -83,21 +80,16 @@ header {
 .icons {
   width: 35px;
   height: 35px;
-<<<<<<< HEAD
   margin-left: 5px;
   transition: all 0.3s ease; }
   .icons:hover {
     opacity: 0.75; }
-=======
-  margin-left: 5px; }
->>>>>>> b9d2e9a6998308495c151c8121fc43f64b7a68ec
 
 .icons img {
   width: 100%; }
 
 .head-slider {
   margin-top: 110px; }
-<<<<<<< HEAD
 
 .first-slide {
   display: flex;
@@ -108,18 +100,6 @@ header {
   height: 300px;
   margin-left: 200px; }
 
-=======
-
-.first-slide {
-  display: flex;
-  justify-content: center; }
-
-.first-slide-left {
-  text-align: center;
-  height: 300px;
-  margin-left: 200px; }
-
->>>>>>> b9d2e9a6998308495c151c8121fc43f64b7a68ec
 .first-slide-right {
   max-width: 600px;
   margin-left: 100px;
@@ -217,7 +197,6 @@ header {
 
   .first-slide-left {
     margin: 0; }
-<<<<<<< HEAD
 
   .first-slide-right {
     margin: 200px auto 0;
@@ -230,20 +209,6 @@ header {
   .head-container {
     background-color: #08649a; }
 
-=======
-
-  .first-slide-right {
-    margin: 200px auto 0;
-    padding-bottom: 100px;
-    text-align: center; }
-
-  .about-container {
-    margin-top: 50px; }
-
-  .head-container {
-    background-color: #08649a; }
-
->>>>>>> b9d2e9a6998308495c151c8121fc43f64b7a68ec
   .slide-button {
     margin: 0 auto;
     margin-top: 50px;

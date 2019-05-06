@@ -1,0 +1,26 @@
+@font-face {
+	font-family: "HK Grotesk";
+	src: url("../fonts/HKGrotesk-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "Museo Sans Cyrl -700";
+	src: url("../fonts/MuseoSansCyrl-700.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Amazing Grotesk";
+	src: url("../fonts/amazing-grotesk.regular.otf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Proxima Nova";
+	src: url("../fonts/ProximaNova-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
